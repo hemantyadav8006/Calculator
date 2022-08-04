@@ -1,3 +1,3 @@
 # Calculator
-Calculator Code in python
-User readable code :)
+
+User readable python code :)
